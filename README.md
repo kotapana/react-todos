@@ -1,2 +1,2 @@
-# react-todos
+# React-App
 Created with CodeSandbox
